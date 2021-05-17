@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Just Take Your Time
 ### Submitted by SpiderPig
 
@@ -52,3 +53,6 @@ for i in range(3):
 r.interactive()
 ```
 ## flag: dctf{1t_0n1y_t0Ok_2_d4y5...}
+=======
+
+>>>>>>> 6f318d3f929f43ea5b6ff1301e3811924212136d

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Strong Password
 ### `Submitted by SpiderPig`
 
@@ -50,3 +51,6 @@ and we get the password:
 `Bo38AkRcE600X8DbK3600`
 we unlock the zip and get the flag in the txt file:
 `dctf{r0cKyoU_f0r_tHe_w1n}`
+=======
+
+>>>>>>> 6f318d3f929f43ea5b6ff1301e3811924212136d
