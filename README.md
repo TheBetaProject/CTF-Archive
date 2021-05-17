@@ -2,4 +2,4 @@
 
 CTFs
 ----
-[DCTF 2021](DCTF 2021/README.md)
+[DCTF 2021](https://github.com/TheBetaProject/CTF-Archive/tree/main/DCTF%202021)
