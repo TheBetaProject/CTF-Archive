@@ -6,4 +6,5 @@
 3. [Just Take Your Time](https://github.com/TheBetaProject/CTF-Archive/tree/main/DCTF%202021/Crypto/Just%20Take%20Your%20Time)
 4. [Strong password](https://github.com/TheBetaProject/CTF-Archive/tree/main/DCTF%202021/Crypto/Strong%20password)
 ## [pwn](https://github.com/TheBetaProject/CTF-Archive/tree/main/DCTF%202021/pwn)
-1. [Magic trick](https://github.com/TheBetaProject/CTF-Archive/tree/main/DCTF%202021/pwn/Magic%20trick)
+1. [Pwn sanity check](htpps://https://github.com/TheBetaProject/CTF-Archive/tree/main/DCTF%202021/pwn/Pwn%20sanity%20check)
+2. [Magic trick](https://github.com/TheBetaProject/CTF-Archive/tree/main/DCTF%202021/pwn/Magic%20trick)
