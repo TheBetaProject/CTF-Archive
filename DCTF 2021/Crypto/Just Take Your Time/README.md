@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Just Take Your Time
 ### Submitted by SpiderPig
 

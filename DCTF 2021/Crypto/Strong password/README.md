@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Strong Password
 ### `Submitted by SpiderPig`
 
